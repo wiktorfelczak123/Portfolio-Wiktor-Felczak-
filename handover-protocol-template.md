@@ -2,10 +2,10 @@
 
 ## 1. Informacje ogólne
 
-- 1. Nazwa projektu:** [nazwa]
-- 2. Data rozpoczęcia:** [data]
-- 3. Data zakończenia:** [data]
-- 4. Zespół wdrożeniowy:** [imiona/inicjały]
+- 1. Nazwa projektu: [nazwa]
+- 2. Data rozpoczęcia: [data]
+- 3. Data zakończenia: [data]
+- 4. Zespół wdrożeniowy: [imiona/inicjały]
 - 5. Klient: [nazwa]
 
 ## 2. Zakres wdrożenia
@@ -38,6 +38,6 @@
 
 ## 6. Podpisy
 
-- **Przedstawiciel klienta:** ________________
-- **Przedstawiciel zespołu wdrożeniowego:** ________________
-- **Data:** ________________
+- Przedstawiciel klienta: ________________
+- Przedstawiciel zespołu wdrożeniowego: ________________
+- Data: ________________
