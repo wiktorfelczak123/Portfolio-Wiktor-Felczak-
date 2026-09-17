@@ -1,11 +1,17 @@
 # Przewodnik po analizie logów błędów
 
-Ten dokument opisuje podejście do analizy logów aplikacyjnych, ze szczególnym uwzględnieniem:
+## Wprowadzenie
+
+Ten przewodnik opisuje praktyczne podejście do analizy logów aplikacyjnych, ze szczególnym uwzględnieniem:
 - komunikatów JSON,
 - kodów odpowiedzi HTTP,
 - błędów integracji API.
 
-Celem jest szybka identyfikacja przyczyny problemu i przekazanie zwięzłej informacji zespołowi IT lub developerom.
+Celem jest szybka identyfikacja przyczyny problemu i przekazanie zwięzłej, kompletnej informacji zespołowi IT lub developerom.
+
+Dokument powstał na podstawie doświadczeń z pracy w supportcie aplikacji biznesowych. Wszystkie przykłady są fikcyjne lub zanonimizowane.
+
+---
 
 ## 1. Struktura typowego logu
 
