@@ -2,19 +2,19 @@
 
 ## 1. Informacje ogólne
 
-- **Nazwa projektu:** [nazwa]
-- **Data rozpoczęcia:** [data]
-- **Data zakończenia:** [data]
-- **Zespół wdrożeniowy:** [imiona/inicjały]
-- **Klient:** [nazwa]
+- 1. Nazwa projektu:** [nazwa]
+- 2. Data rozpoczęcia:** [data]
+- 3. Data zakończenia:** [data]
+- 4. Zespół wdrożeniowy:** [imiona/inicjały]
+- 5.Klient: [nazwa]
 
 ## 2. Zakres wdrożenia
 
-- [ ] Konfiguracja systemu
-- [ ] Integracja z systemami zewnętrznymi
-- [ ] Migracja danych
-- [ ] Szkolenie użytkowników
-- [ ] Dokumentacja powdrożeniowa
+- 1. Konfiguracja systemu
+- 2. Integracja z systemami zewnętrznymi
+- 3. Migracja danych
+- 4. Szkolenie użytkowników
+- 5. Dokumentacja powdrożeniowa
 
 ## 3. Testy akceptacyjne (UAT)
 
@@ -31,10 +31,10 @@
 
 ## 5. Przekazanie do eksploatacji
 
-- [ ] System działa zgodnie z wymaganiami.
-- [ ] Użytkownicy przeszkoleni.
-- [ ] Dokumentacja przekazana.
-- [ ] Wsparcie powdrożeniowe ustalone.
+- 1. System działa zgodnie z wymaganiami.
+- 2. Użytkownicy przeszkoleni.
+- 3. Dokumentacja przekazana.
+- 4. Wsparcie powdrożeniowe ustalone.
 
 ## 6. Podpisy
 
