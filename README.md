@@ -1,22 +1,18 @@
-# Portfolio-Wiktor-Felczak
+# Portfolio - Wiktor Felczak
 
-Repozytorium zawiera wybrane materiały pokazujące moje podejście do:
-- analizy i dokumentowania błędów aplikacyjnych,
-- standaryzacji wiedzy technicznej,
-- inicjowania i wdrażania usprawnień,
-- tworzenia narzędzi wspierających wdrożenia i support.
+Tu zebrałem materiały, które pokazują, jak pracuję z błędami aplikacji, jak dokumentuję wiedzę i jak wprowadzam usprawnienia w supportcie i we wdrożeniach.
 
-Materiały są zanonimizowane. Nie zawierają danych klientów ani informacji poufnych.
+Wszystkie przykłady są fikcyjne albo oczyszczone z danych. Nie ma tu informacji o klientach ani treści poufnych.
 
-## Zawartość
+## Pliki
 
-- [`error-log-guide.md`](error-log-guide.md) – przewodnik po analizie logów błędów (JSON, HTTP, API).
-- [`improvement-case-study.md`](improvement-case-study.md) – przykład usprawnienia, które weszło na produkcję.
-- [`handover-protocol-template.md`](handover-protocol-template.md) – uniwersalny szablon protokołu odbioru wdrożenia.
-- [`payment-integration-case-study.md`](payment-integration-case-study.md) – case study integracji płatności online.
-- [`pre-implementation-test-plan.md`](pre-implementation-test-plan.md) – szablon planu testów przedwdrożeniowych.
-- [`reporting-automation-case-study.md`](reporting-automation-case-study.md) – case study automatyzacji raportowania.
+- error-log-guide.md - jak czytać logi błędów, kody HTTP i komunikaty JSON
+- improvement-case-study.md - przykład usprawnienia, które weszło do produkcji
+- handover-protocol-template.md - szablon protokołu odbioru wdrożenia
+- payment-integration-case-study.md - przykład pracy z błędami płatności online
+- pre-implementation-test-plan.md - szablon planu testów przed wdrożeniem
+- reporting-automation-case-study.md - przykład uproszczenia raportowania
 
 ## Kontakt
 
-- LinkedIn: [www.linkedin.com/in/Wiktor-Felczak](https://www.linkedin.com/in/Wiktor-Felczak)
+LinkedIn: www.linkedin.com/in/Wiktor-Felczak
