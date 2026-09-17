@@ -15,4 +15,4 @@ Wszystkie przykłady są fikcyjne albo oczyszczone z danych. Nie ma tu informacj
 
 ## Kontakt
 
-LinkedIn: www.linkedin.com/in/Wiktor-Felczak
+LinkedIn: [www.linkedin.com/in/Wiktor-Felczak](https://www.linkedin.com/in/Wiktor-Felczak)
