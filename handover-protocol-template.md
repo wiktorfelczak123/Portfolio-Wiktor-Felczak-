@@ -6,7 +6,7 @@
 - 2. Data rozpoczęcia:** [data]
 - 3. Data zakończenia:** [data]
 - 4. Zespół wdrożeniowy:** [imiona/inicjały]
-- 5.Klient: [nazwa]
+- 5. Klient: [nazwa]
 
 ## 2. Zakres wdrożenia
 
